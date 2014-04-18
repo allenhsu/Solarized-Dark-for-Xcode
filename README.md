@@ -5,7 +5,7 @@ My mod of solarized dark color scheme for Xcode
 
 #Preview
 
-![image](https://github.com/allenhsu/Solarized-Dark-for-Xcode/blob/master/Preview.png)
+![image](https://raw.githubusercontent.com/allenhsu/Solarized-Dark-for-Xcode/master/Preview.png)
 
 #Install
 
